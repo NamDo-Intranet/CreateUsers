@@ -1,0 +1,6 @@
+﻿FirstName,Lastname,Email,Password,OU,,,,
+An,Nguyen,AnNguyen@netclass.edu.vn,123456Aa@,"OU=OU_Staff,OU=OU_Users,DC=netclass,DC=edu,DC=vn",,,,
+Nam,Do,NamDo@netclass.edu.vn,123456Aa@,"OU=OU_Staff,OU=OU_Users,DC=netclass,DC=edu,DC=vn",,,,
+Ban,Nguyen,BanNguyen@netclass.edu.vn,123456Aa@,"OU=OU_Staff,OU=OU_Users,DC=netclass,DC=edu,DC=vn",,,,
+Hung,Tran,HungTran@netclass.edu.vn,123456Aa@,"OU=OU_Staff,OU=OU_Users,DC=netclass,DC=edu,DC=vn",,,,
+Khai,Nguyen,KhaiNguyen@netclass.edu.vn,123456Aa@,"OU=OU_Staff,OU=OU_Users,DC=netclass,DC=edu,DC=vn",,,,
